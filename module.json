@@ -1,0 +1,35 @@
+{
+  "id": "pf2e-flatfinder",
+  "title": "PF2e Flatfinder",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "url": "https://github.com/MathemagicalCalibrations/PF2e-Flatfinder",
+  "manifest": "https://raw.githubusercontent.com/MathemagicalCalibrations/PF2e-Flatfinder/master/module.json",
+  "download": "https://github.com/MathemagicalCalibrations/PF2e-Flatfinder/archive/refs/heads/main.zip",
+  "authors": [
+    {
+      "name": "BRino",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "flatfinder",
+      "label": "Flatfinder",
+      "path": "packs/flatfinder",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": "<p>A compendium of replacements for Feats, Actions and Activities to streamline running Flatfinder on Foundry. To be used with the Pathfinder 2e system and the Proficiency without Level variant enabled.</p>"
+}

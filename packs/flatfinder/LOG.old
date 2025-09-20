@@ -1,0 +1,24 @@
+2025/09/20-17:42:38.080851 7f8c30bfc6c0 Recovering log #28
+2025/09/20-17:42:38.081481 7f8c30bfc6c0 Level-0 table #30: started
+2025/09/20-17:42:38.082813 7f8c30bfc6c0 Level-0 table #30: 27556 bytes OK
+2025/09/20-17:42:38.085388 7f8c30bfc6c0 Delete type=0 #28
+2025/09/20-17:42:38.085441 7f8c30bfc6c0 Delete type=3 #27
+2025/09/20-18:50:56.744062 7f8a137ff6c0 Level-0 table #33: started
+2025/09/20-18:50:56.745074 7f8a137ff6c0 Level-0 table #33: 2885 bytes OK
+2025/09/20-18:50:56.746399 7f8a137ff6c0 Delete type=0 #31
+2025/09/20-18:50:56.749316 7f8a137ff6c0 Manual compaction at level-0 from '!folders!Bl8kCVBsctKgVFEa' @ 72057594037927935 : 1 .. '!items!zojTJ8r9HuRORp0D' @ 0 : 0; will stop at '!items!zojTJ8r9HuRORp0D' @ 51 : 1
+2025/09/20-18:50:56.749320 7f8a137ff6c0 Compacting 2@0 + 0@1 files
+2025/09/20-18:50:56.750505 7f8a137ff6c0 Generated table #34@0: 14 keys, 15830 bytes
+2025/09/20-18:50:56.750512 7f8a137ff6c0 Compacted 2@0 + 0@1 files => 15830 bytes
+2025/09/20-18:50:56.751649 7f8a137ff6c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/20-18:50:56.751685 7f8a137ff6c0 Delete type=2 #30
+2025/09/20-18:50:56.751724 7f8a137ff6c0 Delete type=2 #33
+2025/09/20-18:50:56.751767 7f8a137ff6c0 Manual compaction at level-0 from '!items!zojTJ8r9HuRORp0D' @ 51 : 1 .. '!items!zojTJ8r9HuRORp0D' @ 0 : 0; will stop at (end)
+2025/09/20-18:50:56.751802 7f8a137ff6c0 Manual compaction at level-1 from '!folders!Bl8kCVBsctKgVFEa' @ 72057594037927935 : 1 .. '!items!zojTJ8r9HuRORp0D' @ 0 : 0; will stop at '!items!zojTJ8r9HuRORp0D' @ 54 : 1
+2025/09/20-18:50:56.751805 7f8a137ff6c0 Compacting 1@1 + 1@2 files
+2025/09/20-18:50:56.753159 7f8a137ff6c0 Generated table #35@1: 20 keys, 19392 bytes
+2025/09/20-18:50:56.753165 7f8a137ff6c0 Compacted 1@1 + 1@2 files => 19392 bytes
+2025/09/20-18:50:56.754289 7f8a137ff6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/20-18:50:56.754321 7f8a137ff6c0 Delete type=2 #18
+2025/09/20-18:50:56.754356 7f8a137ff6c0 Delete type=2 #34
+2025/09/20-18:50:56.758291 7f8a137ff6c0 Manual compaction at level-1 from '!items!zojTJ8r9HuRORp0D' @ 54 : 1 .. '!items!zojTJ8r9HuRORp0D' @ 0 : 0; will stop at (end)
