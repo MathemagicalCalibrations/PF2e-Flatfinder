@@ -26,6 +26,7 @@ Remember to add the **Treat Wounds (FF)** activity to all characters who will ev
 - Roll the Medicine check in the **Treat Wounds (FF)** activity description.
 - Click the field in the row of the table corresponding to the result of your Competence check.
 - Apply the healing that just popped up in the chat.
+
 **Medic Dedication (FF)** correctly modifies the Base Healing values in the **Treat Wounds (FF)** activity. **Mortal Healing (FF)** gives a toggle in the Action tab to add the +4 circumstance bonus.
 To use **Risky Surgery (FF)** or **Natural Medicine (FF)**, add the **Risky Treat Wounds (FF)** and **Natural Treat Wounds (FF)** respectively and use those instead of the regular activity.
 **Encouraging Words (FF)** works similarly, but the feat automatically gives you the corresponding action with working automatic calculations.
